@@ -55,7 +55,8 @@ If you use this code, please cite our paper:
 ```
 
 Related papers and repositories building upon these datasets:
-Memory Fusion Network (https://arxiv.org/abs/1802.00927, https://github.com/pliang279/MFN)</br>
-Multi-Attention Recurrent Network (https://arxiv.org/abs/1802.00923, https://github.com/A2Zadeh/CMU-MultimodalSDK/)</br>
-Graph-MFN (http://aclweb.org/anthology/P18-1208, https://github.com/A2Zadeh/CMU-MultimodalSDK/)</br>
-Multimodal Transformer (https://arxiv.org/abs/1906.00295, https://github.com/yaohungt/Multimodal-Transformer)
+Memory Fusion Network: [paper](https://arxiv.org/abs/1802.00927), [code](https://github.com/pliang279/MFN)</br>
+Multi-Attention Recurrent Network: [paper](https://arxiv.org/abs/1802.00923), [code](https://github.com/A2Zadeh/CMU-MultimodalSDK/)</br>
+Graph-MFN: [paper](http://aclweb.org/anthology/P18-1208), [code](https://github.com/A2Zadeh/CMU-MultimodalSDK/)</br>
+Multimodal Transformer: [paper](https://arxiv.org/abs/1906.00295), [code](https://github.com/yaohungt/Multimodal-Transformer)
+Multimodal Cyclic Translations: [paper](https://arxiv.org/abs/1812.07809), [code](https://github.com/hainow/MCTN)
