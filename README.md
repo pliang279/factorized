@@ -15,7 +15,7 @@ ICLR, 2019. (*equal contribution)
 ## Installation
 
 First check that the requirements are satisfied:</br>
-Python 2.7</br>
+Python 3.6/3.7</br>
 PyTorch 0.4.0</br>
 numpy 1.13.3</br>
 sklearn 0.20.0
@@ -36,6 +36,8 @@ Please run
 python mfm_test_mosi.py
 ```
 in the command line.
+
+Similar commands for loading and running models for other datasets can be found in mfm_test_mmmo.py, mfm_test_moud.py etc.
 
 If you use this code, please cite our paper:
 
