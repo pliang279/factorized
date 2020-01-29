@@ -3,7 +3,7 @@
 > Pytorch implementation for learning factorized multimodal representations using deep generative models.
 
 Correspondence to: 
-  - Paul Liang (pliang@andrew.cmu.edu)
+  - Paul Liang (pliang@cs.cmu.edu)
   - Yao-Hung Hubert Tsai (yaohungt@cs.cmu.edu)
   
 ## Paper
