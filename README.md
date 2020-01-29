@@ -1,8 +1,16 @@
 # Learning Factorized Multimodal Representations
 
-Code for the paper "Learning Factorized Multimodal Representations", ICLR 2019
+> Pytorch implementation for learning factorized multimodal representations using deep generative models.
 
-Paper: https://openreview.net/pdf?id=rygqqsA9KX
+Correspondence to: 
+  - Paul Liang (pliang@andrew.cmu.edu)
+  - Yao-Hung Hubert Tsai (yaohungt@cs.cmu.edu)
+  
+## Paper
+
+[**Learning Factorized Multimodal Representations**](https://arxiv.org/abs/1806.06176)<br>
+[Yao-Hung Hubert Tsai](https://yaohungt.github.io)*, [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/)*, [Amir Zadeh](https://www.amir-zadeh.com/), [Louis-Philippe Morency](https://www.cs.cmu.edu/~morency/), and [Ruslan Salakhutdinov](https://www.cs.cmu.edu/~rsalakhu/)<br>
+ICLR, 2019. (*equal contribution)
 
 ## Installation
 
