@@ -7,9 +7,9 @@ Paper: https://openreview.net/pdf?id=rygqqsA9KX
 ## Installation
 
 First check that the requirements are satisfied:
-Python 2.7
-PyTorch 0.4.0
-numpy 1.13.3
+Python 2.7</br>
+PyTorch 0.4.0</br>
+numpy 1.13.3</br>
 sklearn 0.20.0
 
 The next step is to clone the repository:
@@ -45,7 +45,7 @@ If you use this code, please cite our paper:
 ```
 
 Related papers and repositories building upon these datasets:
-Memory Fusion Network (https://arxiv.org/abs/1802.00927, https://github.com/pliang279/MFN)
-Multi-Attention Recurrent Network (https://arxiv.org/abs/1802.00923, https://github.com/A2Zadeh/CMU-MultimodalSDK/)
-Graph-MFN (http://aclweb.org/anthology/P18-1208, https://github.com/A2Zadeh/CMU-MultimodalSDK/)
+Memory Fusion Network (https://arxiv.org/abs/1802.00927, https://github.com/pliang279/MFN)</br>
+Multi-Attention Recurrent Network (https://arxiv.org/abs/1802.00923, https://github.com/A2Zadeh/CMU-MultimodalSDK/)</br>
+Graph-MFN (http://aclweb.org/anthology/P18-1208, https://github.com/A2Zadeh/CMU-MultimodalSDK/)</br>
 Multimodal Transformer (https://arxiv.org/abs/1906.00295, https://github.com/yaohungt/Multimodal-Transformer)
