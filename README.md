@@ -4,7 +4,7 @@ Code for the paper "Learning Factorized Multimodal Representations", ICLR 2019
 
 Paper: https://openreview.net/pdf?id=rygqqsA9KX
 
-Installation
+## Installation
 
 First check that the requirements are satisfied:
 Python 2.7
@@ -12,9 +12,22 @@ PyTorch 0.4.0
 numpy 1.13.3
 sklearn 0.20.0
 
-Dataset
+The next step is to clone the repository:
+```bash
+git clone https://github.com/pliang279/factorized.git
+```
+
+## Dataset
 
 Please download the latest version of the CMU-MOSI, CMU-MOSEI, POM, and IEMOCAP datasets which can be found at https://github.com/A2Zadeh/CMU-MultimodalSDK/
+
+## Scripts
+
+Please run
+```bash
+python mfm_test_mosi.py
+```
+in the command line.
 
 If you use this code, please cite our paper:
 
@@ -30,3 +43,9 @@ If you use this code, please cite our paper:
   year={2019}
 }
 ```
+
+Related papers and repositories building upon these datasets:
+Memory Fusion Network (https://arxiv.org/abs/1802.00927, https://github.com/pliang279/MFN)
+Multi-Attention Recurrent Network (https://arxiv.org/abs/1802.00923, https://github.com/A2Zadeh/CMU-MultimodalSDK/)
+Graph-MFN (http://aclweb.org/anthology/P18-1208, https://github.com/A2Zadeh/CMU-MultimodalSDK/)
+Multimodal Transformer (https://arxiv.org/abs/1906.00295, https://github.com/yaohungt/Multimodal-Transformer)
