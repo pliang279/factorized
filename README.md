@@ -9,7 +9,7 @@ Correspondence to:
 ## Paper
 
 [**Learning Factorized Multimodal Representations**](https://arxiv.org/abs/1806.06176)<br>
-[Yao-Hung Hubert Tsai](https://yaohungt.github.io)*, [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/)*, [Amir Zadeh](https://www.amir-zadeh.com/), [Louis-Philippe Morency](https://www.cs.cmu.edu/~morency/), and [Ruslan Salakhutdinov](https://www.cs.cmu.edu/~rsalakhu/)<br>
+[Yao-Hung Hubert Tsai](https://yaohungt.github.io)* , [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/)* , [Amir Zadeh](https://www.amir-zadeh.com/), [Louis-Philippe Morency](https://www.cs.cmu.edu/~morency/), and [Ruslan Salakhutdinov](https://www.cs.cmu.edu/~rsalakhu/)<br>
 ICLR, 2019. (*equal contribution)
 
 ## Installation
