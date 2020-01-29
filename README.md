@@ -6,7 +6,7 @@ Paper: https://openreview.net/pdf?id=rygqqsA9KX
 
 ## Installation
 
-First check that the requirements are satisfied:
+First check that the requirements are satisfied:</br>
 Python 2.7</br>
 PyTorch 0.4.0</br>
 numpy 1.13.3</br>
