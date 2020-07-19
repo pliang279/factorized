@@ -54,7 +54,7 @@ If you use this code, please cite our paper:
 }
 ```
 
-Related papers and repositories building upon these datasets:
+Related papers and repositories building upon these datasets:</br>
 Memory Fusion Network: [paper](https://arxiv.org/abs/1802.00927), [code](https://github.com/pliang279/MFN)</br>
 Multi-Attention Recurrent Network: [paper](https://arxiv.org/abs/1802.00923), [code](https://github.com/A2Zadeh/CMU-MultimodalSDK/)</br>
 Graph-MFN: [paper](http://aclweb.org/anthology/P18-1208), [code](https://github.com/A2Zadeh/CMU-MultimodalSDK/)</br>
